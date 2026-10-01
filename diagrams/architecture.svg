@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#ffffff"/>
+<style>.box{fill:#f6f8fa;stroke:#24292f;stroke-width:2;rx:14}.title{font:700 26px Arial,sans-serif;fill:#111827}.text{font:18px Arial,sans-serif;fill:#24292f}.small{font:16px Arial,sans-serif;fill:#4b5563}.arrow{stroke:#24292f;stroke-width:3;marker-end:url(#arrow)}</style>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L10,3 L0,6 Z" fill="#24292f"/></marker></defs>
+<text x="600" y="48" text-anchor="middle" class="title">Cloudflare Network Security &amp; WAF Lab</text>
+<rect x="70" y="220" width="220" height="130" class="box"/>
+<text x="180" y="265" text-anchor="middle" class="title">Internet</text>
+<text x="180" y="300" text-anchor="middle" class="small">Users / automated traffic</text>
+<line x1="290" y1="285" x2="390" y2="285" class="arrow"/>
+<rect x="390" y="110" width="420" height="350" class="box"/>
+<text x="600" y="150" text-anchor="middle" class="title">Cloudflare Edge</text>
+<text x="430" y="195" class="text">DNS / Proxy</text>
+<text x="430" y="235" class="text">TLS / Universal SSL</text>
+<text x="430" y="275" class="text">Security Rules / WAF</text>
+<text x="430" y="315" class="text">Rate Limiting / IP Controls</text>
+<text x="430" y="355" class="text">Turnstile / Bot Handling</text>
+<text x="430" y="395" class="text">Caching / Smart Shield</text>
+<text x="430" y="435" class="text">Analytics / Monitoring</text>
+<line x1="810" y1="285" x2="910" y2="285" class="arrow"/>
+<rect x="910" y="220" width="220" height="130" class="box"/>
+<text x="1020" y="265" text-anchor="middle" class="title">Origin</text>
+<text x="1020" y="300" text-anchor="middle" class="small">Web application</text>
+<text x="600" y="540" text-anchor="middle" class="small">Security-first edge controls protect and optimize traffic before it reaches the origin.</text>
+</svg>
