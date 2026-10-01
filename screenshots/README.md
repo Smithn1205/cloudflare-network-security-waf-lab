@@ -10,7 +10,7 @@ Upload these files here using the exact names.
 | `04-security-rules.png` | 5/5 custom rules + actions/status |
 | `05-rate-limiting.png` | Login protection + /login.html + Block |
 | `06-security-overview.png` | 39.76k requests + 19.14% mitigated + detection tools |
-| `07-turnstile.png` | Managed Turnstile widget + hostname |
+| `07-turnstile-analytics.png` | Turnstile analytics: challenges issued/solved, likely human/bot, and Siteverify status |
 | `08-cache-rule-domain.png` | Domain cache rule + 1-day Edge TTL + 4-hour Browser TTL |
 | `09-cache-rule-login-bypass.png` | /login.html + Bypass cache |
 | `10-cache-overview.png` | Cache Overview / missed-cache data |
