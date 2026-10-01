@@ -21,4 +21,3 @@ Origin IP and verification values are intentionally omitted.
 ## Evidence
 - `screenshots/01-dns-records.png`
 - `screenshots/02-ssl-tls-overview.png`
-- `screenshots/03-edge-certificates.png`
