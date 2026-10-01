@@ -18,9 +18,10 @@ Upload these files here using the exact names.
 | `12-security-analytics-30d.png` | 30-day security metrics |
 | `13-security-analytics-24h.png` | 2.6k requests + 706 mitigated |
 | `14-origin-analytics.png` | Origin response/connection metrics |
-| `15-security-settings.png` | Optional security settings |
-| `16-smart-shield-enabled.png` | Optional Smart Shield status |
-| `17-cloudflare-trace.png` | Only if you later obtain a real Cloudflare Trace result |
+| `15-http-traffic-bandwidth.png` | 24h HTTP Traffic + 8.58 MB bandwidth + cached/uncached bandwidth |
+| `16-security-settings.png` | Optional security settings |
+| `17-smart-shield-enabled.png` | Optional Smart Shield status |
+| `18-cloudflare-trace.png` | Only if you later obtain a real Cloudflare Trace result |
 
 ## Redaction rules
 
