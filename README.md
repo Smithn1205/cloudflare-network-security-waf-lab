@@ -61,9 +61,20 @@ Additional rules cover HTTP/1.0 challenge handling, verified/good-bot handling, 
 An active rate-limiting rule named **Login protection** targets `/login.html` and uses a **Block** action.
 
 ### Turnstile
-A Cloudflare Turnstile widget is configured for `practicecf.cfd`:
+A Cloudflare Turnstile widget is configured for `practicecf.cfd` and embedded in the site's contact and login interfaces:
 - Mode: **Managed**
 - Pre-clearance: **No pre-clearance**
+- Last 24-hour dashboard snapshot: **26 challenges issued**
+- **4 challenges solved**
+- **22 challenges unsolved**
+- **15.38% likely human**
+- **84.62% likely bot**
+- All 4 solved challenges were interactive solves
+- **Siteverify requests: 0**
+- **Valid tokens: 0**
+- **Invalid tokens: 0**
+
+The lab currently demonstrates Turnstile challenge generation and analytics, but **server-side Siteverify validation is not implemented**. Cloudflare therefore reports that widget tokens are not being validated by the application backend.
 
 ### Caching
 The domain-level cache rule:
