@@ -44,4 +44,4 @@ Observed paths included `/.s3cfg`, `/shop/.env`, `/dashboard/.env`, and `/gcp-ke
 - `screenshots/14-security-analytics-30d.png`
 - `screenshots/15-security-analytics-24h.png`
 - `screenshots/16-origin-analytics.png`
-- `screenshots/17-http-traffic-bandwidth.png`
+- `screenshots/18-http-traffic-bandwidth.png`
