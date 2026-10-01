@@ -39,9 +39,8 @@ This is an intentional accuracy note: the project documents **widget deployment 
 
 ## Evidence
 
-- `screenshots/07-turnstile-analytics-overview.png`
-- `screenshots/08-turnstile-solve-rates.png`
-- `screenshots/09-turnstile-challenge-outcomes.png`
+- `screenshots/05-turnstile-analytics-overview.png`
+- `screenshots/06-turnstile-challenge-outcomes.png`
 - Source implementation: `contact.html` and `login.html`
 
 ## Security Note
