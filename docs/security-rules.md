@@ -31,6 +31,8 @@ Matches verified bots and selected verified categories.
 - Action: **Block**
 - Status: Active
 
+A live test triggered Cloudflare **Error 1015 (You are being rate limited)**, confirming that the configured rate-limit action was enforced.
+
 ## Managed Protection
 The captured Security Overview showed running detection categories for:
 - Web application exploits
@@ -41,8 +43,7 @@ The captured Security Overview showed running detection categories for:
 These managed protections are documented separately from the custom rules.
 
 ## Evidence
-- `screenshots/04-security-rules.png`
-- `screenshots/05-rate-limiting.png`
-- `screenshots/05-rate-limit-test-error-1015.png`
-- `screenshots/06-security-overview.png`
-- `screenshots/07-turnstile-analytics.png`
+- `screenshots/03-security-rules.png`
+- `screenshots/04-rate-limiting.png` — live Error 1015 result
+- `screenshots/05-turnstile-analytics-overview.png`
+- `screenshots/06-turnstile-challenge-outcomes.png`
