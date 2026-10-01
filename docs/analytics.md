@@ -14,6 +14,20 @@
 
 These are dashboard snapshots and are not presented as confirmed successful attacks.
 
+## 24-Hour Web Traffic & Bandwidth Snapshot
+Cloudflare Web Traffic showed:
+- Total requests: **2.6k**
+- Cached requests: **144**
+- Uncached requests: **2.46k**
+- Total bandwidth: **8.58 MB**
+- Cached bandwidth: **169.41 kB**
+- Uncached bandwidth: **8.41 MB**
+- Total unique visitors: **76**
+- Maximum unique visitors per hour: **20**
+- Minimum unique visitors per hour: **8**
+
+The cached bandwidth represented approximately **1.97%** of total bandwidth for this snapshot. This is a traffic snapshot and should not be interpreted as a long-term cache-performance measurement.
+
 ## Origin Analytics
 - Connection success rate: **68%**
 - P95 response-time headline: **383 ms**
@@ -30,3 +44,4 @@ Observed paths included `/.s3cfg`, `/shop/.env`, `/dashboard/.env`, and `/gcp-ke
 - `screenshots/12-security-analytics-30d.png`
 - `screenshots/13-security-analytics-24h.png`
 - `screenshots/14-origin-analytics.png`
+- `screenshots/15-http-traffic-bandwidth.png`
