@@ -15,13 +15,13 @@ Configuration observed in the Cloudflare dashboard:
 
 A live browser interaction generated Turnstile challenge activity visible in Cloudflare Analytics. The captured last-24-hour snapshot showed:
 
-- **26 challenges issued**
-- **4 challenges solved**
-- **22 challenges unsolved**
-- **15.38% likely human**
-- **84.62% likely bot**
+- **38 challenges issued**
+- **13 challenges solved**
+- **25 challenges unsolved**
+- **34.21% likely human**
+- **65.79% likely bot**
 - 4 interactive solves
-- 0 non-interactive solves
+- 9 non-interactive solves
 - 0 pre-clearance solves
 
 This demonstrates that the widget is actively generating challenges and producing observable challenge analytics.
@@ -39,7 +39,9 @@ This is an intentional accuracy note: the project documents **widget deployment 
 
 ## Evidence
 
-- `screenshots/07-turnstile-analytics.png`
+- `screenshots/07-turnstile-analytics-overview.png`
+- `screenshots/08-turnstile-solve-rates.png`
+- `screenshots/09-turnstile-challenge-outcomes.png`
 - Source implementation: `contact.html` and `login.html`
 
 ## Security Note
