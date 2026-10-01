@@ -9,8 +9,9 @@ Upload these files here using the exact names.
 | `03-edge-certificates.png` | Universal SSL + certificate coverage/expiry |
 | `04-security-rules.png` | 5/5 custom rules + actions/status |
 | `05-rate-limiting.png` | Login protection + /login.html + Block |
+| `05-rate-limit-test-error-1015.png` | Live rate-limit test showing Cloudflare Error 1015 |
 | `06-security-overview.png` | 39.76k requests + 19.14% mitigated + detection tools |
-| `07-turnstile-analytics.png` | Turnstile analytics: challenges issued/solved, likely human/bot, and Siteverify status |
+| `07-turnstile-analytics.png` | Live Turnstile analytics: 26 challenges, 4 solved, 84.62% likely bot, and Siteverify status |
 | `08-cache-rule-domain.png` | Domain cache rule + 1-day Edge TTL + 4-hour Browser TTL |
 | `09-cache-rule-login-bypass.png` | /login.html + Bypass cache |
 | `10-cache-overview.png` | Cache Overview / missed-cache data |
