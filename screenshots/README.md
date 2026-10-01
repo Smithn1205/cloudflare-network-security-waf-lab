@@ -21,7 +21,8 @@ Upload these files here using the exact names.
 | `14-security-analytics-30d.png` | 30-day security metrics |
 | `15-security-analytics-24h.png` | 2.6k requests + 706 mitigated |
 | `16-origin-analytics.png` | Origin response/connection metrics |
-| `17-http-traffic-bandwidth.png` | 24h HTTP Traffic + 8.58 MB bandwidth + cached/uncached bandwidth |
+| `17-http-traffic-overview.png` | HTTP Traffic overview: cache hit ratio, 4xx/5xx errors, and synthetic monitoring |
+| `18-observatory-current.png` | Current Observatory snapshot: Core Web Vitals, TTFF, and TTLB performance | 24h HTTP Traffic + 8.58 MB bandwidth + cached/uncached bandwidth |
 | `18-security-settings.png` | Optional security settings |
 | `19-smart-shield-enabled.png` | Optional Smart Shield status |
 | `20-cloudflare-trace.png` | Only if you later obtain a real Cloudflare Trace result |
