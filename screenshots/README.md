@@ -11,21 +11,21 @@ Upload these files here using the exact names.
 | `05-rate-limiting.png` | Login protection + /login.html + Block |
 | `05-rate-limit-test-error-1015.png` | Live rate-limit test showing Cloudflare Error 1015 |
 | `06-security-overview.png` | 39.76k requests + 19.14% mitigated + detection tools |
-| `07-turnstile-analytics.png` | Live Turnstile analytics: 26 challenges, 4 solved, 84.62% likely bot, and Siteverify status |
+| `07-turnstile-analytics-overview.png` | Live Turnstile analytics overview: 38 challenges issued, 13 solved, 34.21% likely human |
 | `08-turnstile-solve-rates.png` | Turnstile solve rates: 13 solved, 4 interactive, 9 non-interactive, 0 pre-clearance |
 | `09-turnstile-challenge-outcomes.png` | Turnstile challenge outcomes: 38 issued, 13 solved, 25 unsolved, 34.21% likely human, 65.79% likely bot |
 | `10-cache-rule-domain.png` | Domain cache rule + 1-day Edge TTL + 4-hour Browser TTL |
 | `11-cache-rule-login-bypass.png` | /login.html + Bypass cache |
 | `12-cache-overview.png` | Cache Overview / missed-cache data |
-| `13-observatory-before-smart-shield.png` | 40.18% cache hit ratio + performance |
+| `13-observatory-current.png` | Current Observatory snapshot: 135ms LCP P75, 82ms TTFF P75, and 77ms request / 2ms response TTLB P75 |
 | `14-security-analytics-30d.png` | 30-day security metrics |
 | `15-security-analytics-24h.png` | 2.6k requests + 706 mitigated |
 | `16-origin-analytics.png` | Origin response/connection metrics |
-| `17-http-traffic-overview.png` | HTTP Traffic overview: cache hit ratio, 4xx/5xx errors, and synthetic monitoring |
-| `18-observatory-current.png` | Current Observatory snapshot: Core Web Vitals, TTFF, and TTLB performance | 24h HTTP Traffic + 8.58 MB bandwidth + cached/uncached bandwidth |
-| `18-security-settings.png` | Optional security settings |
-| `19-smart-shield-enabled.png` | Optional Smart Shield status |
-| `20-cloudflare-trace.png` | Only if you later obtain a real Cloudflare Trace result |
+| `17-http-traffic-overview.png` | HTTP Traffic overview: 40.2% Cloudflare / 59.8% origin cache ratio, 4xx/5xx errors, and synthetic monitoring |
+| `18-http-traffic-bandwidth.png` | 24h HTTP Traffic: 2.6k requests, 8.58 MB bandwidth, cached/uncached bandwidth |
+| `19-security-settings.png` | Optional security settings |
+| `20-smart-shield-enabled.png` | Optional Smart Shield status |
+| `21-cloudflare-trace.png` | Only if you later obtain a real Cloudflare Trace result |
 
 ## Redaction rules
 
