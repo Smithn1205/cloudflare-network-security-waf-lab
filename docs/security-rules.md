@@ -43,5 +43,6 @@ These managed protections are documented separately from the custom rules.
 ## Evidence
 - `screenshots/04-security-rules.png`
 - `screenshots/05-rate-limiting.png`
+- `screenshots/05-rate-limit-test-error-1015.png`
 - `screenshots/06-security-overview.png`
-- `screenshots/07-turnstile.png`
+- `screenshots/07-turnstile-analytics.png`
