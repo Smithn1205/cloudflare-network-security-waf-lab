@@ -41,7 +41,7 @@ The cached bandwidth represented approximately **1.97%** of total bandwidth for 
 Observed paths included `/.s3cfg`, `/shop/.env`, `/dashboard/.env`, and `/gcp-key.json`. These are observed request paths only; successful compromise is not claimed.
 
 ## Evidence
-- `screenshots/12-security-analytics-30d.png`
-- `screenshots/13-security-analytics-24h.png`
-- `screenshots/14-origin-analytics.png`
-- `screenshots/15-http-traffic-bandwidth.png`
+- `screenshots/14-security-analytics-30d.png`
+- `screenshots/15-security-analytics-24h.png`
+- `screenshots/16-origin-analytics.png`
+- `screenshots/17-http-traffic-bandwidth.png`
