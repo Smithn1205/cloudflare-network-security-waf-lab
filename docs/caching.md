@@ -29,7 +29,6 @@ Captured before Smart Shield activation:
 Smart Shield was activated on **1 October 2026**. No performance improvement is claimed yet.
 
 ## Evidence
-- `screenshots/08-cache-rule-domain.png`
-- `screenshots/09-cache-rule-login-bypass.png`
-- `screenshots/10-cache-overview.png`
-- `screenshots/11-observatory-before-smart-shield.png`
+- `screenshots/07-cache-rule-domain.png`
+- `screenshots/08-cache-rule-login-bypass.png`
+- `screenshots/09-observatory-before-smart-shield.png`
