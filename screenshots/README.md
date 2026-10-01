@@ -12,17 +12,19 @@ Upload these files here using the exact names.
 | `05-rate-limit-test-error-1015.png` | Live rate-limit test showing Cloudflare Error 1015 |
 | `06-security-overview.png` | 39.76k requests + 19.14% mitigated + detection tools |
 | `07-turnstile-analytics.png` | Live Turnstile analytics: 26 challenges, 4 solved, 84.62% likely bot, and Siteverify status |
-| `08-cache-rule-domain.png` | Domain cache rule + 1-day Edge TTL + 4-hour Browser TTL |
-| `09-cache-rule-login-bypass.png` | /login.html + Bypass cache |
-| `10-cache-overview.png` | Cache Overview / missed-cache data |
-| `11-observatory-before-smart-shield.png` | 40.18% cache hit ratio + performance |
-| `12-security-analytics-30d.png` | 30-day security metrics |
-| `13-security-analytics-24h.png` | 2.6k requests + 706 mitigated |
-| `14-origin-analytics.png` | Origin response/connection metrics |
-| `15-http-traffic-bandwidth.png` | 24h HTTP Traffic + 8.58 MB bandwidth + cached/uncached bandwidth |
-| `16-security-settings.png` | Optional security settings |
-| `17-smart-shield-enabled.png` | Optional Smart Shield status |
-| `18-cloudflare-trace.png` | Only if you later obtain a real Cloudflare Trace result |
+| `08-turnstile-solve-rates.png` | Turnstile solve rates: 13 solved, 4 interactive, 9 non-interactive, 0 pre-clearance |
+| `09-turnstile-challenge-outcomes.png` | Turnstile challenge outcomes: 38 issued, 13 solved, 25 unsolved, 34.21% likely human, 65.79% likely bot |
+| `10-cache-rule-domain.png` | Domain cache rule + 1-day Edge TTL + 4-hour Browser TTL |
+| `11-cache-rule-login-bypass.png` | /login.html + Bypass cache |
+| `12-cache-overview.png` | Cache Overview / missed-cache data |
+| `13-observatory-before-smart-shield.png` | 40.18% cache hit ratio + performance |
+| `14-security-analytics-30d.png` | 30-day security metrics |
+| `15-security-analytics-24h.png` | 2.6k requests + 706 mitigated |
+| `16-origin-analytics.png` | Origin response/connection metrics |
+| `17-http-traffic-bandwidth.png` | 24h HTTP Traffic + 8.58 MB bandwidth + cached/uncached bandwidth |
+| `18-security-settings.png` | Optional security settings |
+| `19-smart-shield-enabled.png` | Optional Smart Shield status |
+| `20-cloudflare-trace.png` | Only if you later obtain a real Cloudflare Trace result |
 
 ## Redaction rules
 
