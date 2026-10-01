@@ -17,15 +17,18 @@ Upload these files here using the exact names.
 | `10-cache-rule-domain.png` | Domain cache rule + 1-day Edge TTL + 4-hour Browser TTL |
 | `11-cache-rule-login-bypass.png` | /login.html + Bypass cache |
 | `12-cache-overview.png` | Cache Overview / missed-cache data |
-| `14-observatory-before-smart-shield.png` | Observatory before Smart Shield: 40.2% Cloudflare / 59.8% origin cache ratio, Core Web Vitals, TTFF and TTLB performance |
-| `14-http-traffic-before-smart-shield.png` | Same pre-Smart-Shield snapshot: 4xx/5xx errors and Synthetic Monitoring results |
+| `13-observatory-before-smart-shield.png` | Observatory before Smart Shield: 40.2% Cloudflare / 59.8% origin cache ratio, Core Web Vitals, TTFF and TTLB performance |
+| `14-http-traffic-before-smart-shield.png` | Pre-Smart-Shield HTTP Traffic: 4xx/5xx errors and Synthetic Monitoring results |
 | `15-security-analytics-30d.png` | 30-day security metrics |
 | `16-security-analytics-24h.png` | 2.6k requests + 706 mitigated |
 | `17-origin-analytics.png` | Origin response/connection metrics |
+| `17-http-traffic-overview.png` | HTTP Traffic overview: 40.2% Cloudflare / 59.8% origin cache ratio, 4xx/5xx errors, and synthetic monitoring |
+| `18-observatory-current.png` | Current Observatory snapshot: 135ms LCP P75, 82ms TTFF P75, and 77ms request / 2ms response TTLB P75 |
 | `18-http-traffic-bandwidth.png` | 24h HTTP Traffic: 2.6k requests, 8.58 MB bandwidth, cached/uncached bandwidth |
 | `19-security-settings.png` | Optional security settings |
 | `20-smart-shield-enabled.png` | Optional Smart Shield status |
 | `21-cloudflare-trace.png` | Only if you later obtain a real Cloudflare Trace result |
+
 ## Redaction rules
 
 Redact:
